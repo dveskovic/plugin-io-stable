@@ -1,0 +1,12 @@
+{
+    "version"           : "0.1.0",
+    "name"              : "PluginIO",
+    "description"       : "Basic php functions for plentymarkets shop designs",
+    "author"            : "plentymarkets GmbH",
+    "keywords"          : ["plentymarkets", "plugins", "layout", "template"],
+    "type"              : "template",
+    "require"           : [],
+    "namespace"         : "IO",
+    "serviceProvider"   : "IO\\Providers\\IOServiceProvider",
+    "javaScriptFiles"   : []
+}
